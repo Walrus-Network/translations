@@ -1,0 +1,6 @@
+/team create
+Use this to create your team
+
+/team invite <username>
+Use this to invite players to your team.
+Only team leaders can invite players.

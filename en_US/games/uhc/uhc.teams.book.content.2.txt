@@ -1,0 +1,3 @@
+/team accept <username>
+Use this to accept a team invite.
+You cannot accept an invite if you haven't recieved one.
